@@ -1,0 +1,25 @@
+/*
+Theme Name: ProBootstrap
+Text Domain: localhost
+Version: 1.0
+Requires at least: 4.7
+Requires PHP: 5.2.4
+Description: Test theme for Wordpress.
+Tags: probootstrap
+Author: kidys <Denis Kitaev>
+Author URI: https://vk.com/kidys
+Theme URI: https://vk.com/kidys
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+
+All files, unless otherwise stated, are released under the GNU General Public
+License version 2.0 (http://www.gnu.org/licenses/gpl-2.0.html)
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned
+with others.
+*/
+
+#wpadminbar {
+    background-color: rgba(35, 40, 45, .7);
+}
